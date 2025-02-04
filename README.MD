@@ -1,1 +1,3 @@
-# Character boundary in Python\n\nFinding individial grapheme clusters Using Unicode character encodings\n
+# Character boundary in Python
+
+Finding individual grapheme clusters Using Unicode character encodings
